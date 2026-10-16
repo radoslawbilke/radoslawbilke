@@ -2,21 +2,11 @@
 
 **Frontend Developer — Vue.js & TypeScript · Poznań, Poland**
 
-Frontend Developer with 5 years of commercial experience, specializing in Vue.js, JavaScript and TypeScript. I take ownership of the projects I work on, from requirements to production, and focus on writing clean, efficient and maintainable code. Comfortable working both independently and as part of a team. AI is part of my daily workflow.
+I'm a Frontend Developer with 5 years of commercial experience, specializing in Vue.js, JavaScript and TypeScript. I take ownership of the projects I work on, from requirements to production, and focus on writing clean, efficient and maintainable code. Comfortable working both independently and as part of a team. AI is part of my daily workflow.
 
 Currently expanding into the backend with Node.js, working towards becoming a **Fullstack Developer**.
 
 Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
-
-## What I work with
-
-- **Front-end:** Vue.js 2 & 3, Nuxt.js, Pinia, Vuex, Vue Router, TypeScript, JavaScript
-- **Styling & UI:** HTML, CSS, SASS (SCSS), Tailwind, Bootstrap, RWD, Storybook, Figma
-- **Testing:** Cypress (E2E)
-- **Tooling:** Vite, Git, GitHub, Bitbucket, Docker, NPM, REST API
-- **AI-driven development:** Claude Code, GitHub Copilot, used every day for coding, refactoring, reviews and documentation
-- **Process:** Scrum, Kanban, Jira
-- **Currently learning:** Node.js, Express, SQL, MongoDB
 
 ## Tech stack
 
@@ -52,8 +42,17 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 
 ## Experience
 
-- **Symfonia** (2026–present) — **Senior Frontend Developer**: technical and architectural decisions, designing scalable solutions, ownership from requirements to production, leading refactoring and legacy migration (Vue 2 → Vue 3), improving performance and quality.
-- **Symfonia** (2023–2025) — **Mid Frontend Developer**: new features and modules in a Scrum team, reusable components and UI sections, bug fixing, refactoring legacy code, writing and maintaining E2E tests.
+- **Symfonia** (2026–present) — **Senior Frontend Developer**
+  - Technical and architectural decisions
+  - Scalable, maintainable solutions — from requirements to production
+  - Leading refactoring and the Vue.js 2 → 3 migration
+  - Improving performance and quality
+  - Collaborating with cross-functional teams
+- **Symfonia** (2023–2025) — **Mid Frontend Developer**
+  - New features, modules and reusable UI components
+  - Resolving bugs and refactoring legacy code
+  - Writing and maintaining E2E tests
+  - Working in a Scrum team
 - **IT-Leaders** (2022) — **Junior Frontend Developer**.
 
 ## Commercial projects
@@ -63,12 +62,9 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 | [Symfonia HR](https://symfonia.pl/oprogramowanie/symfonia_hr) | Robust HR cloud application.     | Vue 2 / 3, TypeScript, Pinia, Cypress, Docker |
 | [IT-Leaders Platform](https://it-leaders.pl)                  | IT-focused recruitment platform. | Vue.js, JavaScript                            |
 
-## Languages
+## Early projects (2022)
 
-🇵🇱 Polish — native · 🇬🇧 English — B2/C1
-
-<details>
-<summary><b>Early projects (2022)</b> — side projects from when I was starting out</summary>
+Side projects from when I was starting out.
 
 - [Where In The World](https://radoslawbilke.github.io/where-in-the-world/) — Vue.js, Nuxt.js, REST API
 - [Todo App](https://radoslawbilke.github.io/Todo-app/) — JavaScript
@@ -77,7 +73,9 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 - [Covid-19](https://radoslawbilke.github.io/Corona-covid-19-landing-page/) · [Loopstudios](https://radoslawbilke.github.io/Loopstudios-landing-page/) · [Sunnyside Agency](https://radoslawbilke.github.io/Sunnyside-agency-landing-page/) · [Clipboard](https://radoslawbilke.github.io/Clipboard-landing-page/) — landing pages
 - [Kobra](https://radoslawbilke.github.io/Kobra-website/) — veterinary clinic website (Bootstrap 5)
 
-</details>
+## Languages
+
+🇵🇱 Polish — native · 🇬🇧 English — B2/C1
 
 ## Let's talk
 
