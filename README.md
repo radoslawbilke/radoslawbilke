@@ -43,13 +43,12 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 ## Experience
 
 - **Symfonia** (2026–present) — **Senior Frontend Developer**
-  - Technical and architectural decisions
-  - Scalable, maintainable solutions — from requirements to production
+  - Taking technical and architectural decisions
   - Leading refactoring and the Vue.js 2 → 3 migration
   - Improving performance and quality
   - Collaborating with cross-functional teams
 - **Symfonia** (2023–2025) — **Mid Frontend Developer**
-  - New features, modules and reusable UI components
+  - Developing features, modules and reusable UI components
   - Resolving bugs and refactoring legacy code
   - Writing and maintaining E2E tests
   - Working in a Scrum team
@@ -62,9 +61,9 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 | [Symfonia HR](https://symfonia.pl/oprogramowanie/symfonia_hr) | Robust HR cloud application.     | Vue 2 / 3, TypeScript, Pinia, Cypress, Docker |
 | [IT-Leaders Platform](https://it-leaders.pl)                  | IT-focused recruitment platform. | Vue.js, JavaScript                            |
 
-## Commercial projects
+## Current projects
 
-Currently working on a fullstack project - more soon :)
+Working on a fullstack project - more soon :)
 
 ## Early projects (2022)
 
