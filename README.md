@@ -62,6 +62,10 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 | [Symfonia HR](https://symfonia.pl/oprogramowanie/symfonia_hr) | Robust HR cloud application.     | Vue 2 / 3, TypeScript, Pinia, Cypress, Docker |
 | [IT-Leaders Platform](https://it-leaders.pl)                  | IT-focused recruitment platform. | Vue.js, JavaScript                            |
 
+## Commercial projects
+
+Currently working on a fullstack project - more soon :)
+
 ## Early projects (2022)
 
 Side projects from when I was starting out.
@@ -75,7 +79,8 @@ Side projects from when I was starting out.
 
 ## Languages
 
-🇵🇱 Polish — native · 🇬🇧 English — B2/C1
+- Polish — native
+- English — B2/C1
 
 ## Let's talk
 
