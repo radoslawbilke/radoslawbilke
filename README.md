@@ -65,9 +65,9 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 
 Working on a fullstack project (Vue.js + Node.js) - more soon :)
 
-## Early projects (2022)
+## Early projects
 
-Side projects from when I was starting out.
+Side projects from when I was starting out (2022).
 
 - [Where In The World](https://radoslawbilke.github.io/where-in-the-world/) — Vue.js, Nuxt.js, REST API
 - [Todo App](https://radoslawbilke.github.io/Todo-app/) — JavaScript
