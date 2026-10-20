@@ -63,7 +63,7 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 
 ## Current projects
 
-Working on a fullstack project - more soon :)
+Working on a fullstack project (Vue.js + Node.js) - more soon :)
 
 ## Early projects (2022)
 
