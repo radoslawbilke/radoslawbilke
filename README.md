@@ -4,7 +4,7 @@
 
 I'm a Frontend Developer with 5 years of commercial experience, specializing in Vue.js, JavaScript and TypeScript. I take ownership of the projects I work on, from requirements to production, and focus on writing clean, efficient and maintainable code. Comfortable working both independently and as part of a team. AI is part of my daily workflow.
 
-Currently expanding into the backend with Node.js, working towards becoming a **Fullstack Developer**.
+Currently expanding into the backend with Node.js, working towards becoming a Fullstack Developer.
 
 Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
 
@@ -54,7 +54,7 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
   - Resolving bugs and refactoring legacy code
   - Writing and maintaining E2E tests
   - Working in a Scrum team
-- **IT-Leaders** (2022) — **Junior Frontend Developer**.
+- **IT-Leaders** (2021-2022) — **Junior Frontend Developer**.
 
 ## Commercial projects
 
