@@ -54,7 +54,7 @@ Outside code: 📷 photography · 🚴 cycling · 🏋️ working out
   - Resolving bugs and refactoring legacy code
   - Writing and maintaining E2E tests
   - Working in a Scrum team
-- **IT-Leaders** (2021-2022) — **Junior Frontend Developer**.
+- **IT-Leaders** (2022-2022) — **Junior Frontend Developer**.
 
 ## Commercial projects
 
